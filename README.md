@@ -1,5 +1,4 @@
 # getting-and-cleaning-assignment
-assignment for getting and cleaning data course
 
 This is an assignment as part of the coursera "Getting and Cleaning Data" Course
 
