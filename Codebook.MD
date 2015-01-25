@@ -2,19 +2,21 @@ CODEBOOK FOR TIDYDATA.TXT
 
 The codebook is somewhat rudimentary as I don't know exactly what most of the variables are (but would find out in a real world analysis).
 66 mean and standard deviation variables in addition to the subject and activity make up the 68 columns of the file.
+
 Where grouped in this list, the variables represent values in the X,Y ad Z dimensions.
-Means and standard deviations for each subject for each activity are present in the dataset.
+
+Means and standard deviations of each variable for each subject and activity are present in the dataset.
 
 
 Variable - Name and Explanation
 
-1. 	SUBJECT
+1. 		SUBJECT
 	
-	subjects numbered from 1 to 30
+			subjects numbered from 1 to 30
 
-2. 	ACTIVITY
+2. 		ACTIVITY
 
-	descriptive name of activity
+			descriptive name of activity
 
 3-5.	TBODYACC-MEAN()-X,Y,Z
 
@@ -36,25 +38,25 @@ Variable - Name and Explanation
 
 30-32.	TBODYGYROJERK-STD()-X,Y,Z
 
-33.	TBODYACCMAG-MEAN()
+33.		TBODYACCMAG-MEAN()
 
-34.	TBODYACCMAG-STD()
+34.		TBODYACCMAG-STD()
 
-35.	TGRAVITYACCMAG-MEAN()
+35.		TGRAVITYACCMAG-MEAN()
 
-36.	TGRAVITYACCMAG-STD()
+36.		TGRAVITYACCMAG-STD()
 
-37.	TBODYACCJERKMAG-MEAN()
+37.		TBODYACCJERKMAG-MEAN()
 
-38.	TBODYACCJERKMAG-STD()
+38.		TBODYACCJERKMAG-STD()
 
-39.	TBODYGYROMAG-MEAN()
+39.		TBODYGYROMAG-MEAN()
 
-40.	TBODYGYROMAG-STD()
+40.		TBODYGYROMAG-STD()
 
-41.	TBODYGYROJERKMAG-MEAN()
+41.		TBODYGYROJERKMAG-MEAN()
 
-42.	TBODYGYROJERKMAG-STD()
+42.		TBODYGYROJERKMAG-STD()
 
 43-45.	FBODYACC-MEAN()-X,Y,Z
 
@@ -68,18 +70,18 @@ Variable - Name and Explanation
 
 58-60.	FBODYGYRO-STD()-X,Y,Z
 
-61.	FBODYACCMAG-MEAN()
+61.		FBODYACCMAG-MEAN()
 
-62.	FBODYACCMAG-STD()
+62.		FBODYACCMAG-STD()
 
-63.	FBODYBODYACCJERKMAG-MEAN()
+63.		FBODYBODYACCJERKMAG-MEAN()
 
-64.	FBODYBODYACCJERKMAG-STD()
+64.		FBODYBODYACCJERKMAG-STD()
 
-65.	FBODYBODYGYROMAG-MEAN()
+65.		FBODYBODYGYROMAG-MEAN()
 
-66.	FBODYBODYGYROMAG-STD()
+66.		FBODYBODYGYROMAG-STD()
 
-67.	FBODYBODYGYROJERKMAG-MEAN()
+67.		FBODYBODYGYROJERKMAG-MEAN()
 
-68.	FBODYBODYGYROJERKMAG-STD()
+68.		FBODYBODYGYROJERKMAG-STD()
