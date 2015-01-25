@@ -8,13 +8,13 @@ Means and standard deviations for each subject for each activity are present in 
 
 Variable - Name and Explanation
 
-1. 		SUBJECT
+1. 	SUBJECT
 	
-			subjects numbered from 1 to 30
+	subjects numbered from 1 to 30
 
-2. 		ACTIVITY
+2. 	ACTIVITY
 
-			descriptive name of activity
+	descriptive name of activity
 
 3-5.	TBODYACC-MEAN()-X,Y,Z
 
